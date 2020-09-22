@@ -1,0 +1,10 @@
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\bin\Debug\ATIVIDADE4.exe.config
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\bin\Debug\ATIVIDADE4.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\bin\Debug\ATIVIDADE4.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.csprojAssemblyReference.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.ChecaTriangulo.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.Properties.Resources.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.csproj.GenerateResource.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.csproj.CoreCompileInputs.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE4\obj\Debug\ATIVIDADE4.pdb

@@ -1,0 +1,10 @@
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\bin\Debug\ATIVIDADE2.exe.config
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\bin\Debug\ATIVIDADE2.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\bin\Debug\ATIVIDADE2.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.csprojAssemblyReference.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.Properties.Resources.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.csproj.GenerateResource.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.csproj.CoreCompileInputs.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE2\obj\Debug\ATIVIDADE2.Calculadora.resources
