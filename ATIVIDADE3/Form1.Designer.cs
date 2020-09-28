@@ -34,8 +34,8 @@
             this.rdbMulher = new System.Windows.Forms.RadioButton();
             this.rdbHomem = new System.Windows.Forms.RadioButton();
             this.btnCalcular = new System.Windows.Forms.Button();
-            this.mtxtAltura = new System.Windows.Forms.MaskedTextBox();
             this.mtxtPeso = new System.Windows.Forms.MaskedTextBox();
+            this.mtxtAltura = new System.Windows.Forms.MaskedTextBox();
             this.gpbGenero.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,25 +103,23 @@
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // mtxtAltura
-            // 
-            this.mtxtAltura.Location = new System.Drawing.Point(158, 66);
-            this.mtxtAltura.Mask = "000 centimetros";
-            this.mtxtAltura.Name = "mtxtAltura";
-            this.mtxtAltura.PromptChar = ' ';
-            this.mtxtAltura.Size = new System.Drawing.Size(152, 22);
-            this.mtxtAltura.TabIndex = 6;
-            this.mtxtAltura.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
-            // 
             // mtxtPeso
             // 
             this.mtxtPeso.Location = new System.Drawing.Point(158, 138);
-            this.mtxtPeso.Mask = "000 Kg";
+            this.mtxtPeso.Mask = "000.00 Kg";
             this.mtxtPeso.Name = "mtxtPeso";
-            this.mtxtPeso.PromptChar = ' ';
             this.mtxtPeso.Size = new System.Drawing.Size(114, 22);
             this.mtxtPeso.TabIndex = 7;
             this.mtxtPeso.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
+            // 
+            // mtxtAltura
+            // 
+            this.mtxtAltura.Location = new System.Drawing.Point(158, 66);
+            this.mtxtAltura.Mask = "0.00 metros";
+            this.mtxtAltura.Name = "mtxtAltura";
+            this.mtxtAltura.Size = new System.Drawing.Size(152, 22);
+            this.mtxtAltura.TabIndex = 6;
+            this.mtxtAltura.TextMaskFormat = System.Windows.Forms.MaskFormat.IncludePrompt;
             // 
             // CalcularPesoIdeal
             // 
@@ -152,8 +150,8 @@
         private System.Windows.Forms.RadioButton rdbMulher;
         private System.Windows.Forms.RadioButton rdbHomem;
         private System.Windows.Forms.Button btnCalcular;
-        private System.Windows.Forms.MaskedTextBox mtxtAltura;
         private System.Windows.Forms.MaskedTextBox mtxtPeso;
+        private System.Windows.Forms.MaskedTextBox mtxtAltura;
     }
 }
 

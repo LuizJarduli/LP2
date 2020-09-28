@@ -24,7 +24,8 @@ namespace ATIVIDADE3
         {
             if(double.TryParse(mtxtAltura.Text, out altura)&& double.TryParse(mtxtPeso.Text, out peso))
             {
-                pesoIdeal = rdbHomem.Checked == true ? (72.7 * (altura/100.0)) - 58 : (62.1 * (altura/100.0)) - 44.7;
+                peso = peso / 100.0;
+                pesoIdeal = rdbHomem.Checked == true ? (72.7 * (altura/100)) - 58 : (62.1 * (altura/100)) - 44.7;
                 mensagem = peso > pesoIdeal ? "Regime Obrigatório já! \nseu peso Ideal é "+ pesoIdeal
                          : peso < pesoIdeal ? "Coma bastante massas e doces!\nseu peso Ideal é "+ pesoIdeal 
                          : "Você está com o peso ideal\nseu peso Ideal é " + pesoIdeal;
