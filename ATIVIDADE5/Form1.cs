@@ -189,6 +189,7 @@ namespace ATIVIDADE5
             limparCampos(gpbEntrada);
             limparCampos(gbpResult);
             txtsituacao.Clear();
+            txtsituacao.Hide();
         }
     }
 }

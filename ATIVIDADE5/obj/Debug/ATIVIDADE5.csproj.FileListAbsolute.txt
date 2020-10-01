@@ -8,3 +8,13 @@ C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM 
 C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE5\obj\Debug\ATIVIDADE5.csproj.CoreCompileInputs.cache
 C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE5\obj\Debug\ATIVIDADE5.exe
 C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE5\obj\Debug\ATIVIDADE5.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\bin\Debug\ATIVIDADE5.exe.config
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\bin\Debug\ATIVIDADE5.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\bin\Debug\ATIVIDADE5.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.csprojAssemblyReference.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.Form1.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.Properties.Resources.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.csproj.GenerateResource.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.csproj.CoreCompileInputs.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\RepositórioGit\ATIVIDADE5\obj\Debug\ATIVIDADE5.pdb
