@@ -142,7 +142,7 @@ namespace ATIVIDADE5
                         mensagem += " e tem "+filhos+" filho(s) são: ";
                     } else
                     {
-                        mensagem += " e tem não possui filhos são: ";
+                        mensagem += " e não possui filhos são: ";
                     }
                 } else
                 {
@@ -162,7 +162,7 @@ namespace ATIVIDADE5
                     }
                     else
                     {
-                        mensagem += " e tem não possui filhos são: ";
+                        mensagem += " e não possui filhos são: ";
                     }
                 }
                 // atribuindo as variáveis com seus devidos resultados aos MaskedTextBox para exibição para o usuário
