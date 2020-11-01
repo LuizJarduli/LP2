@@ -1,0 +1,14 @@
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\bin\Debug\ATIVIDADE7.exe.config
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\bin\Debug\ATIVIDADE7.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\bin\Debug\ATIVIDADE7.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.frmAtividade7.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.Properties.Resources.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.csproj.GenerateResource.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.csproj.CoreCompileInputs.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.frmExercicio1.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.frmExercicio2.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.csprojAssemblyReference.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.frmExercicio3.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE7\obj\Debug\ATIVIDADE7.frmExercicio4.resources
