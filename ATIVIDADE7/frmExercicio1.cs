@@ -49,7 +49,8 @@ namespace ATIVIDADE7
         private void btnAchaPar_Click(object sender, EventArgs e)
         {
             string frase = rchTxtFrase.Text;
-            string par="";
+            int contaPar = 0;
+            /*string par="";
             string[] Pares = new string[100];
             int contaPar = 0,maiorPar = 0;
             for(int i = 0; i < frase.Length; i++)
@@ -88,7 +89,19 @@ namespace ATIVIDADE7
                     }
                 }
             }
-            MessageBox.Show("O número de vezes que um mesmo par de letras ocorre é : " + maiorPar + " , onde o par é: "+par);
+            MessageBox.Show("O número de vezes que um mesmo par de letras ocorre é : " + maiorPar + " , onde o par é: "+par);*/
+            for (int i = 0; i < frase.Length; i++)
+            {
+                if(i > 0)
+                {
+                    if (frase[i - 1] == frase[i])
+                    {
+                        contaPar++;
+                    }
+                }
+                
+            }
+            MessageBox.Show("O número de vezes que um mesmo par de letras ocorre é : " + contaPar);
         }
     }
 }
