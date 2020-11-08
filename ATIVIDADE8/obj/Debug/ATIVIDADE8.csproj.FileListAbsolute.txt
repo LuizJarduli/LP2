@@ -1,0 +1,17 @@
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.csprojAssemblyReference.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio1.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmPrincipal.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.Properties.Resources.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.csproj.GenerateResource.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.csproj.CoreCompileInputs.cache
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\bin\Debug\ATIVIDADE8.exe.config
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\bin\Debug\ATIVIDADE8.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\bin\Debug\ATIVIDADE8.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.exe
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.pdb
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio2.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio3.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio4.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio5.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio6.resources
+C:\Users\luizj.LAPTOP-S284PDKK\Desktop\FATEC - MATERIAIS\2º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\Trabalhos\ATIVIDADE8\obj\Debug\ATIVIDADE8.frmExercicio7.resources
