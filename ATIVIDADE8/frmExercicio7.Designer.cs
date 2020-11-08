@@ -28,18 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.rtbDados = new System.Windows.Forms.RichTextBox();
             this.btnImprime = new System.Windows.Forms.Button();
+            this.lbDados = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
-            // 
-            // rtbDados
-            // 
-            this.rtbDados.Location = new System.Drawing.Point(418, 13);
-            this.rtbDados.Name = "rtbDados";
-            this.rtbDados.ReadOnly = true;
-            this.rtbDados.Size = new System.Drawing.Size(370, 425);
-            this.rtbDados.TabIndex = 0;
-            this.rtbDados.Text = "";
             // 
             // btnImprime
             // 
@@ -51,13 +42,22 @@
             this.btnImprime.UseVisualStyleBackColor = true;
             this.btnImprime.Click += new System.EventHandler(this.btnImprime_Click);
             // 
+            // lbDados
+            // 
+            this.lbDados.FormattingEnabled = true;
+            this.lbDados.ItemHeight = 16;
+            this.lbDados.Location = new System.Drawing.Point(418, 12);
+            this.lbDados.Name = "lbDados";
+            this.lbDados.Size = new System.Drawing.Size(370, 420);
+            this.lbDados.TabIndex = 2;
+            // 
             // frmExercicio7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lbDados);
             this.Controls.Add(this.btnImprime);
-            this.Controls.Add(this.rtbDados);
             this.Name = "frmExercicio7";
             this.Text = "frmExercicio7";
             this.ResumeLayout(false);
@@ -65,8 +65,7 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.RichTextBox rtbDados;
         private System.Windows.Forms.Button btnImprime;
+        private System.Windows.Forms.ListBox lbDados;
     }
 }

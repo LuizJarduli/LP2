@@ -37,7 +37,7 @@ namespace ATIVIDADE8
                 numCaracter[i] = chars;
                 imprime += $"o nome:{nomes[i]} tem {numCaracter[i]} caracteres\n";
             }
-            rtbDados.Text = imprime;
+            lbDados.Items.Add(imprime);
         }
     }
 }
